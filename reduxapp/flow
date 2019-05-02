@@ -1,0 +1,21 @@
+==================Redux=================
+Stroe 
+	initial state
+Reducer 
+	1. trainer list 
+	2. trainer details
+	
+Actions
+	Trainer clicked 
+
+Middlewares: 
+	1. Redux logger
+	2. Compse with Dev 
+	
+
+===================React==================
+Container: Trainer List
+Container: Trainer Details
+
+Presentation: 
+App
