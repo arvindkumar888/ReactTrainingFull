@@ -1,0 +1,37 @@
+npm install create-react-app
+https://babeljs.io/
+https://getbootstrap.com/docs/4.3/getting-started/download/
+
+Declarative Function
+function sum(x, y){
+return x+y;
+} 
+Ananymous function:
+
+ES6 
+class great extent React.component {
+	construct(){
+	}
+}
+
+https://bit.ly/2GzoLg4
+https://bit.ly/2Oa7u2j
+
+
+	
+	React Material:
+
+	https://bit.ly/2GzoLg4
+
+	mail: dsrmurthy786@yahoo.com
+
+Lazy load code:
+		https://bit.ly/2Oa7u2j
+                download zip
+                npm install
+                npm start
+
+
+
+
+
