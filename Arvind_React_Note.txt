@@ -47,6 +47,12 @@ Steps to build with optimization and upload to server
 
 At the time of pushing build package to production remove .map files.(map files for debugging puspose)
 
+8. package he build folder by selecting required files for production use then
+ - GIT push
+ -Jenkins
+	Tomcat, GIT, ISS, AWS, Window Azure(DevOps)
+	Contineous integration and constineous delivery
+	Provided all the tests are passed.
 
 
 
