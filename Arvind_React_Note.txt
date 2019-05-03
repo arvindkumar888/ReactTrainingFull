@@ -1,0 +1,53 @@
+npm install create-react-app
+https://babeljs.io/
+https://getbootstrap.com/docs/4.3/getting-started/download/
+
+Declarative Function
+function sum(x, y){
+return x+y;
+} 
+Ananymous function:
+
+ES6 
+class great extent React.component {
+	construct(){
+	}
+}
+
+https://bit.ly/2GzoLg4
+https://bit.ly/2Oa7u2j
+
+
+	
+	React Material:
+
+	https://bit.ly/2GzoLg4
+
+	mail: dsrmurthy786@yahoo.com
+
+Lazy load code:
+		https://bit.ly/2Oa7u2j
+                download zip
+                npm install
+                npm start
+
+Steps to build with optimization and upload to server
+
+1. Remove all the console logs in project
+2. Remove all the middlewares lile logger, composeWithDevTools
+3. To get the optimized build, we need uglification.
+	 Uglify plugin is used by webpack
+4. npm run build
+
+	Observe build folder. (test will be automatically removed by webpack build tool)
+	
+5. in the build, node_modules will not be added
+6. To configure or costomize build, override config. setting in webpack.config.js
+7 Observe static folder
+
+At the time of pushing build package to production remove .map files.(map files for debugging puspose)
+
+
+
+
+
