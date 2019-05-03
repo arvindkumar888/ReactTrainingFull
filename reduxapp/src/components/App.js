@@ -10,4 +10,5 @@
          <hr/>
          <TrainerDetails/>
      </div>
- )
+ );
+ export default App;
